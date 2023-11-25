@@ -1,5 +1,5 @@
 ![](https://cdn.jsdelivr.net/gh/xufuyu/QBstarter@master/static/QBstarter.svg)
-# QBstarter
+# QBstarter ![](https://img.shields.io/badge/QBstarter-GUPPY-da282a) ![](https://img.shields.io/badge/GUPPY-SR思锐-daa282a) ![](https://img.shields.io/github/downloads/xufuyu/QBstarter/total) ![](https://img.shields.io/github/stars/xufuyu/QBstarter)
 集成的QQ机器人启动器，内含插件系统。此项目由 *GUPPY团队* 和 *SR思锐* 共同开发。
 ## 简介
 QBstarter 是集成的QQ机器人启动器，内含插件系统。你可以通过这个项目一键启动和配置QQ机器人，快速上手QQ机器人。
