@@ -1,8 +1,43 @@
-![](https://cdn.jsdelivr.net/gh/xufuyu/QBstarter@master/static/QBstarter.svg)
-# QBstarter ![](https://img.shields.io/badge/QBstarter-GUPPY-da282a) ![](https://img.shields.io/badge/GUPPY-SR思锐-daa282a) ![](https://img.shields.io/github/downloads/xufuyu/QBstarter/total) ![](https://img.shields.io/github/stars/xufuyu/QBstarter)
-集成的QQ机器人启动器，内含插件系统。此项目由 *GUPPY团队* 和 *SR思锐* 共同开发。
+<p align="center">
+  <a href="https://www.guppy.ltd/">
+    <img src="https://cdn.jsdelivr.net/gh/xufuyu/QBstarter@master/static/QBstarter.svg" width="200" height="200" alt="QBstarter">
+  </a>
+</p>
+
+
+<div align="center">
+
+# QBstarter
+
+
+_✨ 集成的QQ机器人启动器，内含插件系统。此项目由 *[GUPPY团队](https://www.guppy.ltd)* 和 *[SR思锐](https://www.guppy.ltd)* 共同开发。✨_  
+</div>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/xufuyu/QBstarter/master/LICENSE">
+    <img src="https://img.shields.io/github/license/xufuyu/QBstarter" alt="license">
+  </a>
+  <a href="https://github.com/xufuyu/QBstarter/releases">
+    <img src="https://img.shields.io/github/v/release/xufuyu/QBstarter?color=blueviolet&include_prereleases" alt="release">
+  </a>
+  <a href="https://www.guppy.ltd">
+    <img src="https://img.shields.io/badge/GUPPY-SR思锐-daa282a" alt="guppy">
+  </a>
+  <a href="https://www.guppy.ltd">
+    <img src="https://img.shields.io/badge/QBstarter-GUPPY-da282a" alt="guppy">
+  </a>
+  <a href="https://www.guppy.ltd">
+    <img src="https://img.shields.io/github/downloads/xufuyu/QBstarter/total" alt="downloads">
+  </a>
+  <a href="https://www.guppy.ltd">
+    <img src="https://img.shields.io/github/stars/xufuyu/QBstarter" alt="stars">
+  </a>
+</p>
+
 ## 简介
+
 QBstarter 是集成的QQ机器人启动器，内含插件系统。你可以通过这个项目一键启动和配置QQ机器人，快速上手QQ机器人。
+
 ## 下载
 
 请从 [GUPPY 官网](https://www.guppy.ltd) 下载最新版本的 QBstarter.
@@ -32,5 +67,4 @@ QBstarter 是集成的QQ机器人启动器，内含插件系统。你可以通�
 * IDE: Intellij IDEA
 * 环境：Windows
 * 编译器:内核：Python10.2；UI：.NET Framework 4.7⬆️
-
 
