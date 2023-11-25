@@ -1,3 +1,4 @@
+![](/static/QBstarter.svg)
 # QBstarter
 集成的QQ机器人启动器，内含插件系统。
 ## 简介
