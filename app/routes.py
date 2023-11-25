@@ -23,13 +23,12 @@ __VERSION__=".".join([__X__,__Y__,__Z__,__V__,__N__])
 def get_version_number():
     return __VERSION__
 
-
 # 设置flask日志（关闭FLASK的日志）
 log = logging.getLogger('werkzeug')
 log.setLevel(logging.ERROR)
 def detect_updates():
-    version_request = requests.request("GET", "http://guppy.ltd:8005")
-    version_number = version_request.text
+    version_request = requests.request("GET", "https://api.guppy.ltd/QBstarter/version")
+    version_number = version_request.json()["message"]["version"]
     return {"version_updates":version_number,"version_current":get_version_number()}
 print(detect_updates())
 @app.route("/", methods=("GET", "POST"))
