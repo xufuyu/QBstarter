@@ -1,4 +1,4 @@
-![](https://github.com/xufuyu/QBstarter/blob/main/static/QBstarter.svg)
+![](https://cdn.jsdelivr.net/gh/xufuyu/QBstarter@master/static/QBstarter.svg)
 # QBstarter
 集成的QQ机器人启动器，内含插件系统。此项目由 *GUPPY团队* 和 *SR思锐* 共同开发。
 ## 简介
@@ -9,7 +9,7 @@ QBstarter 是集成的QQ机器人启动器，内含插件系统。你可以通�
 
 你也可以在 [GitHub Releases](https://github.com/xufuyu/QBstarter/releases) 中下载最新版本的 QBstarter.
 
-虽然并不强制, 但仍建议通过 GUPPY 官网下载启动器.
+虽然并不强制, 但仍建议通过 GUPPY 官网下载启动器.修改
 
 * 注：GUPPY是QBstarter背后的运营团队。
 
