@@ -10,7 +10,7 @@
 # QBstarter
 
 
-_✨ 集成的QQ机器人启动器，内含插件系统。此项目由 *[GUPPY团队](https://www.guppy.ltd)* 和 *[SR思锐](https://www.guppy.ltd)* 共同开发。✨_  
+_✨ 集成的QQ机器人启动器，内含插件系统。此项目由 *[GUPPY团队](https://www.guppy.ltd)* 和 *[SR思锐](https://www.srinternet.top/)* 共同开发。✨_  
 </div>
 
 <p align="center">
@@ -64,7 +64,7 @@ QBstarter 是集成的QQ机器人启动器，内含插件系统。你可以通�
 
 如果您想提交一个 Pull Request, 必须遵守如下要求:
 
-* IDE: Intellij IDEA
+* IDE: PyCharm / Visual Studio (Blend) 2019/2022
 * 环境：Windows
-* 编译器:内核：Python10.2；UI：.NET Framework 4.7⬆️
+* 编译器:内核：Python10.2；UI：.NET Framework 4.7及以上
 
